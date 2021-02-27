@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">project2</string>
+    <string name="enter_text">enter</string>
+    <string name="hello_world">Hello, World</string>
 </resources>
